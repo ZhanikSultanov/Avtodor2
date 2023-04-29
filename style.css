@@ -336,7 +336,7 @@ footer{
         display: none;
     }
 }
-@media screen and (max-width: 1519px){
+@media screen and (max-width: 1700px){
     .about__right p{
     font-size: 15px;
     }
